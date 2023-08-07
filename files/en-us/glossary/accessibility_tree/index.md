@@ -31,3 +31,4 @@ While still in draft form within the Web Incubator Community Group as of April 2
 
   - {{Glossary("Accessibility")}}
   - {{Glossary("ARIA")}}
+  - Making arbitrary changes
